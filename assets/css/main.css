@@ -3861,6 +3861,7 @@
 		}
 
 		#banner .content {
+			/*background: url("../../images/vo_logo2.gif") no-repeat left/90%;*/
 			-moz-flex-grow: 1;
 			-webkit-flex-grow: 1;
 			-ms-flex-grow: 1;
